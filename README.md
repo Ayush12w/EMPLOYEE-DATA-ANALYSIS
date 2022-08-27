@@ -1,3 +1,17 @@
-# EMPLOYEE-DATA-ANALYSIS
+# Gender-Based-Employee-Distribution-Dashboard🏢
 
-You can view the interactive dashboard [here](https://public.tableau.com/app/profile/ayush.tiwari1940/viz/EmployeeDataAnalysis_16592879451340/Dashboard1)
+This repository houses the gender-based employee distribution from the years 1990 to 2002.
+The queries have been coded in SQL and the resultant information has been visualized as a dashboard using Tableau Public.
+
+The following analysis has been performed on the dataset-
+- Breakdown of the number of male vs female employees hired over the years
+- Number of male vs female managers per department over the years
+- Average annual male vs female employee salary trend over the years
+- Department-wise average male vs female employee salary
+
+### Dashboard👇
+![Alt text](Dashboard.png?raw=true "Optional Title")
+
+The database can be found [here](https://www.dropbox.com/s/lhj4axkaupjhmbq/employees_mod.sql?dl=0).
+
+An interactive dashboard has been hosted on Tableau Public [here](https://public.tableau.com/app/profile/ayush.tiwari1940/viz/EmployeeDataAnalysis_16592879451340/Dashboard1)
